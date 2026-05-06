@@ -1,2 +1,1 @@
-# MyFirstRemoteRepo
-test
+# Paragon z warzywniaka
